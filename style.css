@@ -1,0 +1,59 @@
+.box1{
+    border:solid 1px;
+    text-align: center;
+    box-shadow: 4px 4px 20px gainsboro;
+   
+    
+}
+
+.description1{
+    border: solid 1px;
+    
+}
+.cards2{
+    border: solid 1px;
+}
+
+img{
+    width: 70px;
+    border-radius: 110px;
+    height: 80px;
+  
+}
+.cards{
+    display: inline-block;
+    
+    
+}
+body{
+    font-family: 'Merriweather', serif;
+}
+.cards1{
+    width: 60%;
+    text-align: center;
+    border-radius: 10px;  
+}
+.cards2{
+    width: 30%;
+    text-align: center;
+    border-radius: 10px;
+    margin: 30px;
+    width: 30%;
+   
+
+}
+.box1{
+    border-radius: 10px;
+}
+.description1{
+    border-radius: 10px;
+    margin: 30px;
+    box-shadow: 4px 4px 20px;
+    border: none;
+   
+}
+
+
+
+
+
